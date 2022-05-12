@@ -2,9 +2,10 @@ RENCANA KEDEPAN AUL
 - Belajar
   * Web
   * Ulangan
+    - MTK
+    - B. Inggris
 - Jalan
   * Event
-  * BM
 - Nonton One Piece
 - Bikin Web
 - Belajar Git & Github
