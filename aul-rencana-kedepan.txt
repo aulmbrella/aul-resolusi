@@ -1,5 +1,7 @@
 RENCANA KEDEPAN AUL
 - Belajar
+  * Web
+  * Ulangan
 - Jalan
 - Bikin Web
 - Belajar Git & Github
